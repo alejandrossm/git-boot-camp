@@ -3,3 +3,4 @@
 ##editando desde hub
 1. asm
 2. dfg
+3. hacer fetch
